@@ -1,0 +1,31 @@
+
+ New Entry
+
+ Student : 1
+ Firt Name 			: Mahesh
+ Last Name 			: Rao
+ Course 			: CSE
+ Section 			: 1
+ Roll no 			: 75
+ Regisgtration no 	: 190901
+ Contact no 		: 7894561231
+
+
+ Student : 2
+ Firt Name 			: Saif
+ Last Name 			: Khan
+ Course 			: CE
+ Section 			: 1
+ Roll no 			: 78
+ Regisgtration no 	: 190902
+ Contact no 		: 9326547899
+
+
+ Student : 3
+ Firt Name 			: Ayush
+ Last Name 			: Raj
+ Course 			: CSE
+ Section 			: 2
+ Roll no 			: 65
+ Regisgtration no 	: 190903
+ Contact no 		: 9874785478
