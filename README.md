@@ -27,7 +27,7 @@ display records , and at the end of program data is stored in File.
 ## Deployment
 
 Minimum requirement to run the (.cpp) file is that you must have 
-Mingw-w64 or other C++ Compiler in your PC.
+Mingw-w64 or C++ Compiler in your PC.
 
 
 
